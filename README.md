@@ -1,15 +1,20 @@
-![APM](https://img.shields.io/apm/l/vim-mode)
-# Javascript Games
+# Project: Ghost Runner
 
-This project can be the best Javascript Open Source Games.
-We have several popular games you can play and have fun with these games.
+This game is **A Horror Game**. It is a deadly and creepy game. Play at your own risk. Honestly, I am scared of this game!
 
-You can report bugs by emailing me: **pranavlsb0@gmail.com**<br>
-This is the URL of this gaming project: **http://bit.ly/javascriptgames**
+<img src="display.png" alt="game" style="margin-left: 15px;" />
 
-## Support
+It is a creepy project. It uses P5 Javascript Libraries. This project needs a server. It would be best if you had a local server like:
 
-<a href="https://www.buymeacoffee.com/pranav.bhattad"><img src="https://bit.ly/3wxQ1p9"></a><br>
-<a href="https://instagram.com/pranavlbhattad"><img src="https://svgshare.com/i/YKM.svg"><a><br>
-[![GitHub followers](https://img.shields.io/github/followers/pranavbhattad?label=pranavbhattad&logo=github&style=social)](https://github.com/pranavbhattad)
-[![GitHub User's stars](https://img.shields.io/github/stars/pranavbhattad/Javascript-Games?style=social)](https://github.com/pranavbhattad/Javascript-Games)
+* Python Server
+* 200 OK Server
+* VS Code Live Server
+
+**The controls are:**
+
+* WASD CONTROLS for moving [up, down, right, left]
+* `Space` Button to Jump or Move up.
+* You can rest for a handful of seconds on the top of the climber.
+* If your head touches the climber's green box, then your game is over.
+
+**Copyright © Pranav Bhattad, @Plbhattad7:Javascript-Games(Github)**
