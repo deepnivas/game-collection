@@ -1,20 +1,18 @@
-# Project: Ghost Runner
+# Project: World's Hardest Game
 
-This game is **A Horror Game**. It is a deadly and creepy game. Play at your own risk. Honestly, I am scared of this game!
+This game is the hardest thing in the world. But remember, it is, hard not impossible.
+So you can win if you give your 100%.
 
 <img src="display.png" alt="game" style="margin-left: 15px;" />
 
-It is a creepy project. It uses P5 Javascript Libraries. This project needs a server. It would be best if you had a local server like:
+It uses the P5 Javascript Libraries. Unlike other projects, this doesn't need a server. You can directly run the `Index.html` file.
 
-* Python Server
-* 200 OK Server
-* VS Code Live Server
+**The Controls are:**
 
-**The controls are:**
-
-* WASD CONTROLS for moving [up, down, right, left]
-* `Space` Button to Jump or Move up.
-* You can rest for a handful of seconds on the top of the climber.
-* If your head touches the climber's green box, then your game is over.
+* You can use the Left-Right Arrow Keys
+* And also, the `WASD` Controls
+* Be sure that you don't touch the obstacles (Blue Squares)
+* You are the Red Square
+* You have to take the Red Square to the other end to win.
 
 **Copyright © Pranav Bhattad, @Plbhattad7:Javascript-Games(Github)**
