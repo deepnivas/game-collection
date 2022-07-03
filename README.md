@@ -1,18 +1,19 @@
-# Project: World's Hardest Game
+# Project: Fruit Ninja
 
-This game is the hardest thing in the world. But remember, it is, hard not impossible.
-So you can win if you give your 100%.
+It is another **Fun Game of the 20s** We love those games where this Arcade Gaming was booming, and this game was born. Play it and Cheers!
 
 <img src="display.png" alt="game" style="margin-left: 15px;" />
 
-It uses the P5 Javascript Libraries. Unlike other projects, this doesn't need a server. You can directly run the `Index.html` file.
+It is a Fruit Ninja project. It uses P5 Javascript Libraries. This project needs a server. It would be best if you had a local server like:
 
-**The Controls are:**
+* Python Server
+* 200 OK Server
+* VS Code Live Server
 
-* You can use the Left-Right Arrow Keys
-* And also, the `WASD` Controls
-* Be sure that you don't touch the obstacles (Blue Squares)
-* You are the Red Square
-* You have to take the Red Square to the other end to win.
+**The controls are:**
+
+* Move the mouse towards the fruit and cut it.
+* Sweet little bombs are coming randomly. If you try to cut it, your game would be over!
+* Chop-Chop the Fruits.
 
 **Copyright © Pranav Bhattad, @Plbhattad7:Javascript-Games(Github)**
